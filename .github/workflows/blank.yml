@@ -35,4 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Run contains
-        run: echo ${{ github.event.commits.*.message }}
+        run: echo ${{ toJSON(github.event.commits.*.message) }}
