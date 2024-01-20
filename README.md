@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjonnick&label=Profile%20views&color=928aff&style=flat-square" alt="jjonnick" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jonay2336" target="blank"><img src="https://img.shields.io/twitter/follow/jonay2336?logo=twitter&style=for-the-badge" alt="jonay2336" /></a> </p>
-
 - I like **games and anime**
 
 - Working on [**Marfeel**](https://marfeel.com)
