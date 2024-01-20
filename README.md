@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonay Rodríguez</h1>
-<h3 align="center">A passionate frontend developer from Spain 🇪🇸</h3>
+<h3 align="center">A frontend developer from Spain 🇪🇸</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjonnick&label=Profile%20views&color=928aff&style=flat-square" alt="jjonnick" /> </p>
 
